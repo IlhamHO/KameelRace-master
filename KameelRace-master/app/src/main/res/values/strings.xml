@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KameelRace</string>
+    <string name="text_lbl_jef">Jef</string>
+    <string name="text_lbl_joske">Joske</string>
+    <string name="text_lbl_freddy">Freddy</string>
+    <string name="text_btn_start">GO!</string>
+
+    <string-array name="kameel_array">
+        <item>JEF</item>
+        <item>JOSKE</item>
+        <item>FREDDY</item>
+    </string-array>
+</resources>
